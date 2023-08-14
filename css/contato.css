@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+}
+
+.contato{
+    color: #000;
+}
+.note{
+    color: red;
+    font-family:initial
+}
